@@ -10,4 +10,4 @@
 
 - **AI** — Saya menggunakan AI terutama untuk membantu menyusun struktur awal project, memperbaiki beberapa bagian kode Flutter, membuat tampilan lebih rapi dan responsif, serta membantu ketika terjadi error pada emulator, Gradle, dan testing. Salah satu prompt yang saya gunakan adalah: **"oke yuk lanjutin untuk gate 1 ini"**. Setelah itu saya tetap menyesuaikan sendiri alur aplikasi, tampilan MILKY Bakery, data produk, login admin, dan beberapa bagian navigasi agar sesuai dengan konsep aplikasi yang saya buat. Saya juga menjalankan dan mengecek kembali hasilnya di emulator supaya kode yang digunakan benar-benar berjalan dan saya pahami.
 
-Video Demo: [tautan YouTube Unlisted ditambahkan sebelum Gate 1 dikumpulkan]
+Video Demo: [YouTube Unlisted](https://youtu.be/lJMOfEwzXjk)
